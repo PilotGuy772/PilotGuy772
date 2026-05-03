@@ -1,9 +1,12 @@
 ### Hi there 👋
 
 ---
-Learning computer science and programming. Beware: most of these repositories are abandoned projects that are incomplete or not maintained, but a few are done.
+Learning computer science and programming. Beware: most of these repositories are abandoned projects that are incomplete or not maintained, but a fair few are done or in progress.
 
 My personal favorite projects:
+* [Classify](github.com/PilotGuy772/Classify) - currently in progress, and not yet really presentable.
+* [3DRenderer](github.com/PilotGuy772/3DRenderer)
+* [Minesweeper](github.com/PilotGuy772/Minesweeper)
 * [Sudoku Solver](github.com/PilotGuy772/sudokuevolved)
 * [Connect 4 Bot](github.com/PilotGuy772/ConnectFour)
 
@@ -12,9 +15,12 @@ My personal favorite projects:
 
 **My skills:**
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+* C#
+* .NET
+* Python
+* Java
+* Linux
+* Bash
 
 **I use:**
 
